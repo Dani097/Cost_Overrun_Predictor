@@ -1,10 +1,8 @@
 # ============================================================
 # PROJECT: Construction Cost Overrun Predictor
-# AUTHOR:  [Your Name]
+# AUTHOR:  [Daniel Frempong-Smart]
 # PURPOSE: Predict whether a construction project will go
 #          over budget using machine learning (regression).
-#          This bridges civil engineering knowledge with
-#          data science and financial technology.
 # ============================================================
 
 # --- STEP 1: IMPORT LIBRARIES ---
